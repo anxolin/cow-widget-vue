@@ -4,6 +4,6 @@ import Widget from '../components/Widget.vue'
 
 <template>
   <main>
-    <Widget />
+    <Widget sellToken="USDC" buyToken="DAI" sellAmount="100" />
   </main>
 </template>
