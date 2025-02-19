@@ -1,6 +1,6 @@
 # widget-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Example on how to use CoW Swap widget using Vue.
 
 ## Recommended IDE Setup
 
